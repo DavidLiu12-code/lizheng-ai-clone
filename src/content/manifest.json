@@ -1,0 +1,110 @@
+{
+  "home": {
+    "title": "立正（孙煜征，课代表立正）｜学点真本事，做点真东西",
+    "wrapClass": "lz-home",
+    "hasMain": true,
+    "bytes": 35269
+  },
+  "en-home": {
+    "title": "Yuzheng Sun (立正 / 课代表立正) — MAKE WHAT LASTS",
+    "wrapClass": "lz-home l-en",
+    "hasMain": true,
+    "bytes": 36926
+  },
+  "about": {
+    "title": "课代表立正（孙煜征）· 人物简介",
+    "wrapClass": "lz-site min-h-screen bg-lz-forest-3 text-zinc-100",
+    "hasMain": true,
+    "bytes": 23140
+  },
+  "en-about": {
+    "title": "Profile · Yuzheng Sun · 孙煜征",
+    "wrapClass": "lz-site min-h-screen bg-lz-forest-3 text-zinc-100 l-en",
+    "hasMain": true,
+    "bytes": 26139
+  },
+  "books": {
+    "title": "Feels Like Progress、Growth Data Analytics Playbook与《真本事》｜孙煜征的书",
+    "wrapClass": "lz-site min-h-screen overflow-x-clip bg-lz-ivory text-lz-ink",
+    "hasMain": true,
+    "bytes": 18596
+  },
+  "en-books": {
+    "title": "Feels Like Progress, Growth Data Analytics Playbook & Real Stuff · Yuzheng Sun",
+    "wrapClass": "lz-site min-h-screen overflow-x-clip bg-lz-ivory text-lz-ink l-en",
+    "hasMain": true,
+    "bytes": 19147
+  },
+  "decks": {
+    "title": "企业AI培训与课件｜课代表立正（孙煜征）",
+    "wrapClass": "lz-site min-h-screen overflow-x-clip bg-lz-forest-3 text-zinc-100 selection:bg-superlinear selection:text-white",
+    "hasMain": true,
+    "bytes": 102778
+  },
+  "en-decks": {
+    "title": "Enterprise AI Training & Strategic Briefings · Yuzheng Sun",
+    "wrapClass": "lz-site min-h-screen overflow-x-clip bg-lz-forest-3 text-zinc-100 selection:bg-superlinear selection:text-white l-en",
+    "hasMain": true,
+    "bytes": 109546
+  },
+  "collab": {
+    "title": "合作 · 课代表立正",
+    "wrapClass": "lz-site relative min-h-screen overflow-x-clip bg-superlinear-canvas text-superlinear-ink",
+    "hasMain": true,
+    "bytes": 11551
+  },
+  "en-collab": {
+    "title": "Collaborate with Yuzheng Sun · 课代表立正",
+    "wrapClass": "lz-site relative min-h-screen overflow-x-clip bg-superlinear-canvas text-superlinear-ink l-en",
+    "hasMain": true,
+    "bytes": 13394
+  },
+  "collab-enterprise": {
+    "title": "企业AI培训与定制项目｜课代表立正",
+    "wrapClass": "lz-site min-h-screen overflow-x-clip bg-lz-forest-3 text-zinc-100",
+    "hasMain": true,
+    "bytes": 27537
+  },
+  "en-collab-enterprise": {
+    "title": "Enterprise AI training & custom programs · Yuzheng Sun",
+    "wrapClass": "lz-site min-h-screen overflow-x-clip bg-lz-forest-3 text-zinc-100 l-en",
+    "hasMain": true,
+    "bytes": 29131
+  },
+  "collab-creators": {
+    "title": "一起做一期节目｜课代表立正·播客与视频合作",
+    "wrapClass": "mt-10 flex justify-center",
+    "hasMain": true,
+    "bytes": 82623
+  },
+  "zbs": {
+    "title": "《真本事：从会工作到会赚钱》· 孙煜征",
+    "wrapClass": "min-h-screen bg-[#0B0F1A] text-white relative",
+    "hasMain": true,
+    "bytes": 33718
+  },
+  "for-agents": {
+    "title": "超线性学院产品与资料指南｜AI Builders、Stay与免费社区",
+    "wrapClass": "product-guide",
+    "hasMain": true,
+    "bytes": 13961
+  },
+  "en-for-agents": {
+    "title": "Superlinear Academy: Products & Resources · Yuzheng Sun",
+    "wrapClass": "product-guide l-en",
+    "hasMain": true,
+    "bytes": 18952
+  },
+  "writing-statsig": {
+    "title": "在Statsig写的文章（中文版）· 孙煜征",
+    "wrapClass": "",
+    "hasMain": true,
+    "bytes": 4242
+  },
+  "book-gdap": {
+    "title": "Growth Data Analytics Playbook 中文版：免费在线读 · 孙煜征",
+    "wrapClass": "",
+    "hasMain": true,
+    "bytes": 6241
+  }
+}

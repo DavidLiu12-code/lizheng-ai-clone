@@ -1,0 +1,33 @@
+
+.lz-ask-mock {
+  margin-top: 18px;
+  padding: 16px 18px;
+  border-left: 3px solid var(--lz-green, #238343);
+  background: #f3efe6;
+  border-radius: 0 10px 10px 0;
+  color: var(--lz-ink-2, #343a35);
+  font-size: 15px;
+  line-height: 1.75;
+}
+.lz-ask-mock-q {
+  font-family: var(--lz-serif-zh, "Noto Serif SC", serif);
+  font-weight: 700;
+  color: var(--lz-ink, #121613);
+  margin-bottom: 8px;
+}
+.lz-ask-mock p + p { margin-top: 10px; }
+
+.lz-notfound {
+  min-height: 70vh;
+  display: grid;
+  place-items: center;
+  padding: 80px 24px;
+  text-align: center;
+  background: var(--lz-ivory, #f8f5ee);
+  color: var(--lz-ink, #121613);
+}
+.lz-notfound h1 {
+  font-family: var(--lz-serif-zh, "Noto Serif SC", serif);
+  font-size: clamp(32px, 6vw, 56px);
+  margin: 0 0 12px;
+}

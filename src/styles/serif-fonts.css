@@ -1,0 +1,13 @@
+/* Same families as the original site (Noto Serif SC + Source Serif 4).
+   Original served many hashed unicode-range slices under /assets/*.woff2;
+   we load the same family names from Google Fonts so GitHub Pages works
+   without copying 200+ woff2 files. */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Source+Serif+4:opsz,wght@8..60,400..900&display=swap");
+
+@font-face {
+  font-family: "Source Serif 4 Variable";
+  src: local("Source Serif 4");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}

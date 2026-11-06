@@ -1,0 +1,434 @@
+[
+  {
+    "ok": true,
+    "file": "book-1.html",
+    "kind": "book",
+    "slug": "1",
+    "title": "第1章　用增长分析驱动产品成功 · Growth Data Analytics Playbook 中文版",
+    "bytes": 8356,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "book-10.html",
+    "kind": "book",
+    "slug": "10",
+    "title": "第10章　设计并实施有效的实验 · Growth Data Analytics Playbook 中文版",
+    "bytes": 15364,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "book-2.html",
+    "kind": "book",
+    "slug": "2",
+    "title": "第2章　找到产品价值的早期信号 · Growth Data Analytics Playbook 中文版",
+    "bytes": 17905,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "book-3.html",
+    "kind": "book",
+    "slug": "3",
+    "title": "第3章　用growth accounting打地基 · Growth Data Analytics Playbook 中文版",
+    "bytes": 13417,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "book-4.html",
+    "kind": "book",
+    "slug": "4",
+    "title": "第4章　获取并培养高质量用户 · Growth Data Analytics Playbook 中文版",
+    "bytes": 12295,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "book-5.html",
+    "kind": "book",
+    "slug": "5",
+    "title": "第5章　留住用户，让他们常来 · Growth Data Analytics Playbook 中文版",
+    "bytes": 12759,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "book-6.html",
+    "kind": "book",
+    "slug": "6",
+    "title": "第6章　把流失的用户找回来 · Growth Data Analytics Playbook 中文版",
+    "bytes": 9745,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "book-7.html",
+    "kind": "book",
+    "slug": "7",
+    "title": "第7章　加速转化，增加收入 · Growth Data Analytics Playbook 中文版",
+    "bytes": 11759,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "book-8.html",
+    "kind": "book",
+    "slug": "8",
+    "title": "第8章　优化性能，打造增长飞轮 · Growth Data Analytics Playbook 中文版",
+    "bytes": 10185,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "book-9.html",
+    "kind": "book",
+    "slug": "9",
+    "title": "第9章　估算增长空间，定可实现的目标 · Growth Data Analytics Playbook 中文版",
+    "bytes": 11485,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "book-conclusion.html",
+    "kind": "book",
+    "slug": "conclusion",
+    "title": "结语 · Growth Data Analytics Playbook 中文版",
+    "bytes": 2273,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-acemode-cursor.html",
+    "kind": "deck",
+    "slug": "acemode-cursor",
+    "title": "从ChatGPT到Cursor：普通人如何抓住AI实战红利（Superlinear × AceMode） · 孙煜征",
+    "bytes": 15054,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-ai-side-income-career-capital.html",
+    "kind": "deck",
+    "slug": "ai-side-income-career-capital",
+    "title": "AI副业，别越做越不值钱 · 孙煜征",
+    "bytes": 54374,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-ai-side-income-commercial-gates.html",
+    "kind": "deck",
+    "slug": "ai-side-income-commercial-gates",
+    "title": "AI副业，从做出来到持续赚钱 · 孙煜征",
+    "bytes": 44520,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-aie-shanghai-2026.html",
+    "kind": "deck",
+    "slug": "aie-shanghai-2026",
+    "title": "把全球AI工程师网络与上海产业生态连接起来（AI Engineer Shanghai） · 孙煜征",
+    "bytes": 7936,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-amazon-stop-chatting.html",
+    "kind": "deck",
+    "slug": "amazon-stop-chatting",
+    "title": "Stop Chatting, Start Scaling (Amazon) · Yuzheng Sun",
+    "bytes": 23969,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-end-of-fake-work.html",
+    "kind": "deck",
+    "slug": "end-of-fake-work",
+    "title": "假工作的终结（刘润直播间） · 孙煜征",
+    "bytes": 44384,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-fake-work.html",
+    "kind": "deck",
+    "slug": "fake-work",
+    "title": "AI会让假工作先爆炸，再贬值 · 孙煜征",
+    "bytes": 13351,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-fake-work-fake-learning.html",
+    "kind": "deck",
+    "slug": "fake-work-fake-learning",
+    "title": "The End of Fake Learning: what it means to learn when AI can do the work · Yuzheng Sun",
+    "bytes": 33689,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-fake-work-fake-learning__zh.html",
+    "kind": "deck",
+    "slug": "fake-work-fake-learning/zh",
+    "title": "假学习的终结：AI时代，怎样才算真正学会｜孙煜征",
+    "bytes": 21698,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-fde-enterprise-engineering.html",
+    "kind": "deck",
+    "slug": "fde-enterprise-engineering",
+    "title": "FDE模式：从Statsig Enterprise Engineering看产品化的大客户交付 · 孙煜征",
+    "bytes": 12032,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-linkedin-engineering-ai.html",
+    "kind": "deck",
+    "slug": "linkedin-engineering-ai",
+    "title": "Common Misconceptions in AI Transformation for Engineering Teams (LinkedIn) · Yuzheng Sun",
+    "bytes": 38571,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-opc-ai-leverage.html",
+    "kind": "deck",
+    "slug": "opc-ai-leverage",
+    "title": "用AI提效30%VS提效10倍，本质差别到底在哪儿？（XWZ OPC Founder Alliance） · 孙煜征",
+    "bytes": 18776,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-seattle-ai-startup-summit.html",
+    "kind": "deck",
+    "slug": "seattle-ai-startup-summit",
+    "title": "Learning to Code When AI Does the Heavy Lifting (Seattle (AI) Startup Summit) · Yuzheng Sun",
+    "bytes": 29066,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-sisi-ai-value.html",
+    "kind": "deck",
+    "slug": "sisi-ai-value",
+    "title": "从“会用AI”到“用AI创造价值”（斯斯·小私董） · 孙煜征",
+    "bytes": 18247,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-tencent-academy-engineering.html",
+    "kind": "deck",
+    "slug": "tencent-academy-engineering",
+    "title": "研发团队AI转型的常见误区与正确坐标系（腾讯学堂） · 孙煜征",
+    "bytes": 28672,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-tencent-game-strategy.html",
+    "kind": "deck",
+    "slug": "tencent-game-strategy",
+    "title": "战略研究的第三界面（腾讯游戏战略） · 孙煜征",
+    "bytes": 33737,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-waytoagi-silicon-valley-2026.html",
+    "kind": "deck",
+    "slug": "waytoagi-silicon-valley-2026",
+    "title": "差的不是人，是市场（通往AGI之路） · 孙煜征",
+    "bytes": 15623,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "deck-what-ai-cant-give.html",
+    "kind": "deck",
+    "slug": "what-ai-cant-give",
+    "title": "AI都会教你了，为什么还要上课？ · 孙煜征",
+    "bytes": 39920,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-addressing-complexity-in-enterprise-scale-experimentation.html",
+    "kind": "writing",
+    "slug": "addressing-complexity-in-enterprise-scale-experimentation",
+    "title": "实验跑到成千上万个时，怎样应对复杂度 · 孙煜征",
+    "bytes": 4089,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-ai-startups-lessons-learned.html",
+    "kind": "writing",
+    "slug": "ai-startups-lessons-learned",
+    "title": "被浪打翻，还是乘浪而起：从创业公司看AI产品怎样上线 · 孙煜征",
+    "bytes": 4451,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-balancing-scale-cost-performance-experimentation-systems.html",
+    "kind": "writing",
+    "slug": "balancing-scale-cost-performance-experimentation-systems",
+    "title": "实验系统怎样平衡规模、成本和性能 · 孙煜征",
+    "bytes": 3250,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-bayesian-vs-frequentist-statistics.html",
+    "kind": "writing",
+    "slug": "bayesian-vs-frequentist-statistics",
+    "title": "贝叶斯和频率学派之争，没那么大不了？ · 孙煜征",
+    "bytes": 4326,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-correlation-vs-causation-guide.html",
+    "kind": "writing",
+    "slug": "correlation-vs-causation-guide",
+    "title": "怎样想清楚相关和因果的关系 · 孙煜征",
+    "bytes": 6193,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-data-driven-marketing-attribution-shortcomings.html",
+    "kind": "writing",
+    "slug": "data-driven-marketing-attribution-shortcomings",
+    "title": "为什么「数据驱动」的营销归因模型兑现不了承诺 · 孙煜征",
+    "bytes": 4061,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-how-ab-testing-platforms-make-data-science-more-interesting.html",
+    "kind": "writing",
+    "slug": "how-ab-testing-platforms-make-data-science-more-interesting",
+    "title": "A/B实验平台怎样让数据科学变得更有意思 · 孙煜征",
+    "bytes": 5254,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-hypothesis-testing-accept-null.html",
+    "kind": "writing",
+    "slug": "hypothesis-testing-accept-null",
+    "title": "做假设检验，为什么你应该「接受」原假设 · 孙煜征",
+    "bytes": 4588,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-hypothesis-testing-explained.html",
+    "kind": "writing",
+    "slug": "hypothesis-testing-explained",
+    "title": "四步讲清楚假设检验 · 孙煜征",
+    "bytes": 14853,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-informed-bayesian-ab-testing.html",
+    "kind": "writing",
+    "slug": "informed-bayesian-ab-testing",
+    "title": "带信息先验的贝叶斯A/B实验：两种做法 · 孙煜征",
+    "bytes": 6939,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-marketing-attribution-models-tech-survey.html",
+    "kind": "writing",
+    "slug": "marketing-attribution-models-tech-survey",
+    "title": "数字营销归因模型：一份技术综述 · 孙煜征",
+    "bytes": 24257,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-marketplace-challenges-in-ab-testing.html",
+    "kind": "writing",
+    "slug": "marketplace-challenges-in-ab-testing",
+    "title": "在双边市场里做A/B实验：难在哪，怎么办 · 孙煜征",
+    "bytes": 4393,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-meta-a-b-testing.html",
+    "kind": "writing",
+    "slug": "meta-a-b-testing",
+    "title": "Meta怎样把我变成了A/B实验的铁杆支持者 · 孙煜征",
+    "bytes": 3461,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-novelty-effects.html",
+    "kind": "writing",
+    "slug": "novelty-effects",
+    "title": "关于新奇效应，你需要知道的都在这里 · 孙煜征",
+    "bytes": 5202,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-pragmatic-data-science-launch.html",
+    "kind": "writing",
+    "slug": "pragmatic-data-science-launch",
+    "title": "为什么我要开一个数据科学YouTube频道 · 孙煜征",
+    "bytes": 4149,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-speeding-up-a-b-tests-with-discipline.html",
+    "kind": "writing",
+    "slug": "speeding-up-a-b-tests-with-discipline",
+    "title": "靠纪律给A/B实验提速 · 孙煜征",
+    "bytes": 4303,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-technical-insights-to-a-scalable-experimentation-system.html",
+    "kind": "writing",
+    "slug": "technical-insights-to-a-scalable-experimentation-system",
+    "title": "让实验系统能规模化：几条技术洞察 · 孙煜征",
+    "bytes": 4199,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-what-is-a-b-testing-and-why-is-it-important.html",
+    "kind": "writing",
+    "slug": "what-is-a-b-testing-and-why-is-it-important",
+    "title": "什么是A/B实验，它为什么重要？ · 孙煜征",
+    "bytes": 4337,
+    "wrapClass": ""
+  },
+  {
+    "ok": true,
+    "file": "writing-why-ab-testing-is-ultimately-qualitative.html",
+    "kind": "writing",
+    "slug": "why-ab-testing-is-ultimately-qualitative",
+    "title": "为什么说A/B实验最终是定性的 · 孙煜征",
+    "bytes": 1856,
+    "wrapClass": ""
+  }
+]
