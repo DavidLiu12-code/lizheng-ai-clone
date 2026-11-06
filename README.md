@@ -35,3 +35,11 @@ GITHUB_PAGES=1 npm run build
 - `RECON.md` — 技术栈与库证据
 - `PAGES.md` — 原站 225 条路由清单
 - `DELIVERABLE.md` — 交付页、运行方式、未能 1:1 还原的项
+
+
+## 在线预览
+
+- 仓库：https://github.com/DavidLiu12-code/lizheng-ai-clone
+- GitHub Pages：https://davidliu12-code.github.io/lizheng-ai-clone/
+
+> 说明：GitHub 免费 Pages 要求仓库公开。本仓库已从 private 改为 public 以便预览（与 denotes-dev-clone 相同做法）。若需重新 private，可关掉 Pages 后再改可见性。
